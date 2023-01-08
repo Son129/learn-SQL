@@ -1,0 +1,2 @@
+# learn-SQL
+newbie SQL
